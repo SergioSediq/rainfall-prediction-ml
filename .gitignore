@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+venv/
+*.csv
+results/*.png
+results/*.pkl
+.DS_Store
+.vscode/
