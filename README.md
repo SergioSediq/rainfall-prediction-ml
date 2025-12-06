@@ -197,4 +197,3 @@ rainfall-prediction-ml/
 ---
 
 ⭐ **Star this repo if you found it helpful!**
-'@ | Out-File -FilePath "README.md" -Encoding UTF8 -Force
