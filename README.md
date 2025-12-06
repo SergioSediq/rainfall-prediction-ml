@@ -1,4 +1,4 @@
-﻿@'
+
 # 🌦️ Rainfall Prediction with Machine Learning
 
 Predicting next-day rainfall in Australia using 7 machine learning algorithms. Achieved **96.29% accuracy** with XGBoost on 145,460 weather observations.
